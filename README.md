@@ -12,7 +12,7 @@
 - :book: **内容概览**：介绍DApp开发中常用的工具，如Infura、Ganache、Alchemy、Hardhat等。学习这些工具的安装、配置和基本用法。
 - :white_check_mark:**预期成果**：学生能够使用这些工具创建和测试。
 - :writing_hand: **作业地址**：在 #✅-dapp大作业 晒结果
-- :hourglass:**预计时间**：3小时
+- :hourglass:**预计时间**：4小时
 
 ## 任务 :three: : [DApp常用技术栈](https://github.com/OrientationTask/Dapp/tree/main/3.%E5%B8%B8%E7%94%A8%E6%8A%80%E6%9C%AF%E6%A0%88)
 - :book: **内容概览**：学习构建DApp的常用技术栈，包括Ethers.js、React、wagmi 等技术。
